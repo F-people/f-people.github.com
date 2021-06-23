@@ -6,7 +6,7 @@
       <p><b>东北大学</b></p>
       <p><b>邮箱：1415979656@qq.com</b></p>
       <p><b>地址：北京市东城区</b></p>
-      <a href="/index-en.html">中文版</a>
+      <a href="/index-en.html">English Version</a>
     </td>
     <td width="25%">
       <img src="/zhengjianzhao.jpg" width="100%">
